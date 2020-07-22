@@ -212,7 +212,7 @@ entries:
     appVersion: v0.7.0-incubating-SNAPSHOT
     created: 2020-05-10T09:27:40.940549939Z
     description: Apache Livy server to run Spark on Kubernetes
-    digest: 64ce91638c3c7d0803a394304e15e7030ba102d854ea2c3bcf069c1c851d2f16
+    digest: 10b591091291dd1d4ef25a218bdd929e7b2ad3df0a6d4899793be7946e1fb349
     home: https://livy.incubator.apache.org/
     icon: https://livy.incubator.apache.org/assets/themes/apache/img/logo.png
     keywords:
